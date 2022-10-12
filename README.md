@@ -8,7 +8,7 @@
 **`👽 CS Student`** <br/>
 **`🖌️ UI/UX Designer`**
 
-<img src="https://1.bp.blogspot.com/-TWcVurcRkqE/W7wNyHLPhpI/AAAAAAAMMcM/WaPeIia7Se0dUACCaq-ZFsyJNSDKKWCiACLcBGAs/s1600/AS0004483_00.gif"  alt="side img" width="250" height="auto" />
+<img src="https://1.bp.blogspot.com/-TWcVurcRkqE/W7wNyHLPhpI/AAAAAAAMMcM/WaPeIia7Se0dUACCaq-ZFsyJNSDKKWCiACLcBGAs/s1600/AS0004483_00.gif"  alt="side img" width="200" height="auto" />
 
 ### Languages and Tools 
 
