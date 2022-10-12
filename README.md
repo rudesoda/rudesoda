@@ -1,6 +1,7 @@
 # Hey there! <img src="https://raw.githubusercontent.com/NotAShelf/NotAShelf/main/assets/Hi.gif" width="20px" height="20px">
 
-**`Digital Artist, Newbie Programmer`**
+**`🎨 Digital Artist
+💻 Newbie Programmer`**
 
 idk what to put here yet
 
