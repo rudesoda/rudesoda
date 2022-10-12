@@ -1,11 +1,12 @@
 # Hey there! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px" height="30px">
 
+<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" align = "right" alt="side img" width="200" height="auto" />
 
-**`🎨 Digital Artist`**
-**`💻 Newbie Programmer`**
-**`👽 CS Student`**
 
-<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" alt="side img" width="200" height="auto" />
+**`🎨 Digital Artist`** <br/>
+**`💻 Newbie Programmer`** <br/>
+**`👽 CS Student`** <br/>
+**`🖌️ UI/UX Designer`**
 
 
 ### Languages and Tools 
