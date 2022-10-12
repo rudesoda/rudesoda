@@ -1,9 +1,9 @@
-# Hey there! <img src="https://raw.githubusercontent.com/NotAShelf/NotAShelf/main/assets/Hi.gif" width="20px" height="20px">
+# Hey there! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px" height="30px">
 
-**`🎨 Digital Artist
-💻 Newbie Programmer`**
 
-idk what to put here yet
+**`🎨 Digital Artist`**
+**`💻 Newbie Programmer`**
+**`👽 CS Student`**
 
 <img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" alt="side img" width="200" height="auto" />
 
