@@ -1,5 +1,5 @@
 
-# <img src="https://i.pinimg.com/originals/b2/e7/56/b2e756d9e02a17daf195ea4927494ecd.gif"  alt="side img" width="260" height="auto" />
+# <img src="https://i.pinimg.com/originals/b2/e7/56/b2e756d9e02a17daf195ea4927494ecd.gif" align ="left" alt="side img" width="260" height="auto" />
 
 
 
@@ -25,7 +25,7 @@
 
 
 <img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" align="left" width="200" height="auto" />
-<img src="https://2.bp.blogspot.com/-Xij3yOo29Zg/WPVrhVMtSxI/AAAAAAAOm8Q/qS0TcVa4oNY3VMk3xaOlvLK4UE4338DCgCLcB/s1600/AS002522_00.gif" align ="center"width="200" height="auto" />
+<img src="https://2.bp.blogspot.com/-IYuKasIqJSI/WPVryfyuhkI/AAAAAAAOnAw/boSzUubeyR0ecILV-O-FDgijLLkm52fBwCLcB/s1600/AS002524_22.gif" align ="center"width="200" height="auto" />
 
 
 
