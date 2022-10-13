@@ -19,7 +19,7 @@
 **`💻 Coding`**
 **`🎮 Video Games`**
 **`📺 Binge Youtube`** <br/>
-**`📼 Watching Documentaries`**
+**`📼 Watch Documentaries`**
 **`👺 Anime/Cartoons`**
 **`📗 Webtoons`**
 
