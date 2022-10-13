@@ -31,12 +31,12 @@
 
 ### Languages and Tools 
 
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/311/311334.png"/>
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/1199/1199118.png" />
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/1199/1199113.png" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/779/779088.png" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2496/2496696.png" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2496/2496742.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/311/311334.png"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/1199/1199118.png" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/1199/1199113.png" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/779/779088.png" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2496/2496696.png" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2496/2496742.png" />
 <br />
 
 
