@@ -1,5 +1,5 @@
 
-# <img src="https://i.pinimg.com/originals/b2/e7/56/b2e756d9e02a17daf195ea4927494ecd.gif" align ="left" alt="side img" width="260" height="auto" />
+# <img src="https://i.pinimg.com/originals/b2/e7/56/b2e756d9e02a17daf195ea4927494ecd.gif" align ="left" alt="side img" width="230" height="auto" />
 
 
 
