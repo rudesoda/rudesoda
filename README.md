@@ -1,13 +1,29 @@
-# Hey there! <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="30px" height="30px">
+
+# <img src="https://i.pinimg.com/originals/b2/e7/56/b2e756d9e02a17daf195ea4927494ecd.gif" align ="left" alt="side img" width="250" height="auto" />
 
 
-**`🎨 Digital Artist`** <br/>
-**`💻 Newbie Programmer`** <br/>
-**`👽 CS Student`** <br/>
-**`🖌️ UI/UX Designer`**
 
-<img src="https://3.bp.blogspot.com/-esRFpEAcOeI/WPVrqB4PsZI/AAAAAAAOm-o/TwgXx4vVrXkQYKm3ArZIbWt_h0hjHxaKgCLcB/s1600/AS002523_11.gif"  alt="side img" width="200" height="auto" />
-<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" alt="side img" width="200" height="auto" />
+### **Hi! I'm IB and I'm a..**
+**🎨 Digital Artist** <br/>
+**💻 Newbie Programmer** <br/>
+**👽 CS Student** <br/>
+**🖌️ Designer** <br/>
+**😎 Disappointment**
+
+### Things that I like doing..
+
+**`🎨 Drawing`** 
+**`💻 Coding`**
+**`🎮 Video Games`**
+**`📺 Binge Youtube`** <br/>
+**`📼 Watching Documentaries`**
+**`👺 Anime/Cartoons`**
+**`📗 Webtoons`**
+
+
+<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif"  alt="side img" width="200" height="auto" />
+
+
 
 ### Languages and Tools 
 
