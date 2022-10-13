@@ -24,8 +24,8 @@
 **`📗 Webtoons`**
 
 
-<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" align="left" width="200" height="auto" />
-<img src="https://2.bp.blogspot.com/-IYuKasIqJSI/WPVryfyuhkI/AAAAAAAOnAw/boSzUubeyR0ecILV-O-FDgijLLkm52fBwCLcB/s1600/AS002524_22.gif" align ="center"width="200" height="auto" />
+<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" align="left" width="140" height="auto" />
+<img src="https://2.bp.blogspot.com/-IYuKasIqJSI/WPVryfyuhkI/AAAAAAAOnAw/boSzUubeyR0ecILV-O-FDgijLLkm52fBwCLcB/s1600/AS002524_22.gif" align ="center"width="140" height="auto" />
 
 
 
