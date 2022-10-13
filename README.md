@@ -4,11 +4,14 @@
 
 
 ### **Hi! I'm IB and I'm a..**
+
 **🎨 Digital Artist** <br/>
 **💻 Newbie Programmer** <br/>
 **👽 CS Student** <br/>
 **🖌️ Designer** <br/>
 **😎 Disappointment**
+
+
 
 ### Things that I like doing..
 
@@ -21,7 +24,8 @@
 **`📗 Webtoons`**
 
 
-<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif"  alt="side img" width="200" height="auto" />
+<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" align="left" width="200" height="auto" />
+<img src="https://2.bp.blogspot.com/-Xij3yOo29Zg/WPVrhVMtSxI/AAAAAAAOm8Q/qS0TcVa4oNY3VMk3xaOlvLK4UE4338DCgCLcB/s1600/AS002522_00.gif" align ="center"width="200" height="auto" />
 
 
 
