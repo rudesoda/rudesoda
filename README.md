@@ -9,7 +9,7 @@
 **💻 Newbie Programmer** <br/> 
 **👽 CS Student** <br/>
 **🖌️ Designer** <br/>
-**😎 Disappointment**
+**😎 Procrastinator**
 
 
 ### Things that I like doing <img src ="https://infosys.cebu.gov.ph/access/images/loginloader.gif" align ="center" width="30" height="auto" />
