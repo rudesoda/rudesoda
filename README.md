@@ -33,6 +33,10 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/779/779088.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2496/2496696.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/2496/2496742.png" />
+
+<a href="https://discord.com/users/274444265260580865"> <img align="left" alt="spotify" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" /> </a>
+
+
 <br />
 
 
