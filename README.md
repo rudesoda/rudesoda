@@ -3,7 +3,7 @@
 
 ### **Hi! I'm IB and I'm a..**
 
-<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" align="right"  width ="350" height="auto" /> 
+<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" align="right"  width ="300" height="auto" /> 
 
 **🎨 Digital Artist** <br/>
 **💻 Newbie Programmer** <br/> 
