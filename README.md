@@ -12,7 +12,7 @@
 
 
 
-### Things that I like doing.. 
+### Things that I like doing <img src ="https://infosys.cebu.gov.ph/access/images/loginloader.gif" align ="center" width="30" height="auto" />
 
 **`🎨 Drawing`** 
 **`💻 Coding`**
@@ -23,7 +23,7 @@
 **`📗 Webtoons`**
 
 
- <img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" /> 
+ <img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif"  width ="300" height="auto" /> 
 
 
 <img src="https://i.gifer.com/origin/51/51400a9b5b73916bc996914bcc6e4c4e.gif" align = "left" width="100" height="auto" />
