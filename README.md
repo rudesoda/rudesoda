@@ -2,7 +2,6 @@
 # <img src="https://i.pinimg.com/originals/b2/e7/56/b2e756d9e02a17daf195ea4927494ecd.gif" align ="left" alt="side img" width="230" height="auto" />
 
 
-
 ### **Hi! I'm IB and I'm a..**
 
 **🎨 Digital Artist** <br/>
@@ -13,21 +12,21 @@
 
 
 
-### Things that I like doing..
+### Things that I like doing.. 
 
 **`🎨 Drawing`** 
 **`💻 Coding`**
 **`🎮 Video Games`**
-**`📺 Binge Youtube`** <br/>
+**`📺 Binge Youtube`** <br/> 
 **`📼 Watch Documentaries`**
 **`👺 Anime/Cartoons`**
 **`📗 Webtoons`**
 
 
-<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" align="left" width="140" height="auto" />
-<img src="https://2.bp.blogspot.com/-IYuKasIqJSI/WPVryfyuhkI/AAAAAAAOnAw/boSzUubeyR0ecILV-O-FDgijLLkm52fBwCLcB/s1600/AS002524_22.gif" align ="center"width="140" height="auto" />
+ <img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" /> 
 
 
+<img src="https://i.gifer.com/origin/51/51400a9b5b73916bc996914bcc6e4c4e.gif" align = "left" width="100" height="auto" />
 
 ### Languages and Tools 
 
