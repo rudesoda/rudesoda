@@ -1,9 +1,9 @@
 
-# <img src="https://i.pinimg.com/originals/b2/e7/56/b2e756d9e02a17daf195ea4927494ecd.gif" align ="left" alt="side img" width="230" height="auto" />
+# <img src="https://media2.giphy.com/media/6O9uGfKwF7PmETtRfM/giphy.gif?cid=790b7611817b677221c4d69b08560f1d81aaa47303b6cb66&rid=giphy.gif&ct=s" align ="left" alt="side img" width="230" height="auto" />
 
-### **Hi! I'm IB and I'm a..**
+### **I'm IB and I'm a..**
 
-<img src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1035.gif" align="right"  width ="270" height="auto" /> 
+<img src="https://media0.giphy.com/media/REEjhR2dEzh9DkFtBC/giphy.gif?cid=790b76113a3e1493dca16d16dcb1860604b5bd5ab93c42e3&rid=giphy.gif&ct=s" align="right"  width ="280" height="auto" /> 
 
 **🎨 Digital Artist** <br/>
 **💻 Newbie Programmer** <br/> 
@@ -23,7 +23,7 @@
 **`📗 Webtoons`**
 
 
-<img src="https://i.gifer.com/origin/51/51400a9b5b73916bc996914bcc6e4c4e.gif" align = "left" width="100" height="auto" />
+<img src="https://i.gifer.com/origin/51/51400a9b5b73916bc996914bcc6e4c4e.gif" align = "left" width="90" height="auto" />
 
 ### Languages and Tools 
 
