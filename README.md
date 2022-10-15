@@ -1,4 +1,4 @@
-# <img src="https://media2.giphy.com/media/6O9uGfKwF7PmETtRfM/giphy.gif?cid=790b7611817b677221c4d69b08560f1d81aaa47303b6cb66&rid=giphy.gif&ct=s" align ="left" alt="side img" width="250" height="auto" />
+# <img src="https://media2.giphy.com/media/6O9uGfKwF7PmETtRfM/giphy.gif?cid=790b7611817b677221c4d69b08560f1d81aaa47303b6cb66&rid=giphy.gif&ct=s" align ="left" alt="side img" width="230" height="auto" />
 
 ### **I'm IB and I'm a..**
 
