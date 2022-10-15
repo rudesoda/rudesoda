@@ -5,7 +5,7 @@
 **🎨 Digital Artist** <br/>
 **💻 Programmer** <br/> 
 **👽 CS Student** <br/>
-<img src="https://media0.giphy.com/media/REEjhR2dEzh9DkFtBC/giphy.gif?cid=790b76113a3e1493dca16d16dcb1860604b5bd5ab93c42e3&rid=giphy.gif&ct=s" align="right"  width ="300" height="auto" />
+<img src="https://media0.giphy.com/media/REEjhR2dEzh9DkFtBC/giphy.gif?cid=790b76113a3e1493dca16d16dcb1860604b5bd5ab93c42e3&rid=giphy.gif&ct=s" align="right"  width ="400" height="auto" />
 **🖌️ Designer** <br/>
 **😎 Procrastinator**
 
